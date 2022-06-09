@@ -60,3 +60,12 @@
 ❖ Single ISP provides all the connections
 
 <h1>Our Proposed model</h1>
+
+![fullNet1](https://user-images.githubusercontent.com/91361896/172781642-00dc76d3-bad0-478b-908c-501612f1fdfc.PNG)
+
+<h2>We Added</h2>
+<li>AAA Server</li>
+<li>Firewall</li>
+<li>MultiLayer Switch</li>
+<li>EIGRP enabled Network</li>
+<li>Access Points</li>
